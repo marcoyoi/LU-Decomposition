@@ -1,6 +1,4 @@
-![lu2](https://github.com/marcoyoi/LU-Decomposition/assets/128804366/241e4db9-8cc1-44d8-82d5-a5aa327fdff1)# LU Decomposition 
-
-## AIM:
+ ## AIM:
 To write a program to find the LU Decomposition of a matrix.
 
 ## Equipments Required:
