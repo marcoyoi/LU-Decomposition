@@ -1,4 +1,4 @@
-# LU Decomposition 
+![lu2](https://github.com/marcoyoi/LU-Decomposition/assets/128804366/241e4db9-8cc1-44d8-82d5-a5aa327fdff1)# LU Decomposition 
 
 ## AIM:
 To write a program to find the LU Decomposition of a matrix.
@@ -60,9 +60,11 @@ print(solution)
 
 ## Output:
 ### Question 1:
-![alt_text](./lu1.png)
+![lu1](https://github.com/marcoyoi/LU-Decomposition/assets/128804366/9c7c164e-5202-4f05-99c3-6717b7ad6274)
+
 ### Question 2
-![alt_text](./lu2.png)
+![lu2](https://github.com/marcoyoi/LU-Decomposition/assets/128804366/d9907845-97f2-491c-b3fa-d06557ed6d27)
+
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
